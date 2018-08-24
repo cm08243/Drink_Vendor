@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Drink_Vendor</string>
+
+    <string name="find_drink">Find Drink!</string>
+
+
+    <string name="brands"></string>
+
+    <string-array name="string_value">
+        <item>Soda</item>
+        <item>Juice</item>
+        <item>Tea</item>
+        <item>Energy Drink</item>
+    </string-array>
+
+</resources>
